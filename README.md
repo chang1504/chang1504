@@ -84,6 +84,4 @@ Hiện tại mình đang tập trung vào việc học **Frontend + Backend** đ
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chang1504&label=Profile+views&color=70A1FF&style=flat" alt="views" />
-</p>
+
