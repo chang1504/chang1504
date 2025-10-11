@@ -95,11 +95,12 @@ Hiện tại mình đang tập trung vào việc học **Frontend + Backend** đ
 ---
 
 ## 📫 Liên hệ với mình
-📧 **Email:** [phamchang208@gmail.com](mailto:phamchang208@gmail.com)  
-🌐 **GitHub:** [github.com/chang1504](https://github.com/chang1504)  
-📸 **Instagram:** [https://www.instagram.com/tsubaki_jj/](https://www.instagram.com/tsubaki_jj/)
-💙 **Facebook:** [Thùy Trang](https://www.facebook.com/thuy.chanq.2025) 
+📧 **Email:** [phamchang208@gmail.com](mailto:phamchang208@gmail.com)<br>
+🌐 **GitHub:** [github.com/chang1504](https://github.com/chang1504)<br>
+📸 **Instagram:** [https://www.instagram.com/tsubaki_jj/](https://www.instagram.com/tsubaki_jj/)<br>
+💙 **Facebook:** [Thùy Trang](https://www.facebook.com/thuy.chanq.2025)<br>
 💬 **Luôn sẵn sàng kết nối & học hỏi!**
+
 
 ---
 
