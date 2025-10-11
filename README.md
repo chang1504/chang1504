@@ -51,16 +51,16 @@ Hiện tại mình đang tập trung vào việc học **Frontend + Backend** đ
 
 | STT | Tên Lab | Mô tả ngắn |
 |-----|----------|------------|
-| 1️⃣ | [Lab 1 - HTML & CSS Basic](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab01) | Giới thiệu & Thiết lập môi trường phát triển |
-| 2️⃣ | [Lab 2 - Responsive Layout](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab02) | Phân tích yêu cầu & Thiết kế Use Case |
-| 3️⃣ | [Lab 3 - Portfolio Mini](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab03) | Mô hình hóa UML: Use Case & Sequence Diagram |
-| 4️⃣ | [Lab 4 - JavaScript DOM](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab04) | Phát triển giao diện đăng nhập |
-| 5️⃣ | [Lab 5 - Calculator App](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab05) | Tích hợp & Quản lý phiên bản dự án |
-| 6️⃣ | [Lab 6 - To-do List](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab06) | Thiết kế chi tiết lớp & kiến trúc hệ thống ATM |
-| 7️⃣ | [Lab 7 - Login Form Validation](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab07) | Phát triển module Rút tiền (Withdraw Module) |
-| 8️⃣ | [Lab 8 - Fetch API](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab08) | Kiểm thử phần mềm: Unit Test & Integration Test |
-| 9️⃣ | [Lab 9 - Node.js Intro](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab09) | Quản lý dự án theo mô hình Agile/Scrum với Jira |
-| 🔟 | [Lab 10 - Express CRUD](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab10) | Báo cáo & Demo tổng hợp ATM Mini Project |
+| 1️⃣ | [Lab 1 - Thiết lập & GitHub](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab01) | Giới thiệu & Thiết lập môi trường phát triển |
+| 2️⃣ | [Lab 2 - Phân tích yêu cầu](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab02) | Phân tích yêu cầu & Thiết kế Use Case |
+| 3️⃣ | [Lab 3 - Thiết kế UML](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab03) | Mô hình hóa UML: Use Case & Sequence Diagram |
+| 4️⃣ | [Lab 4 - Giao diện đăng nhập](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab04) | Phát triển giao diện đăng nhập |
+| 5️⃣ | [Lab 5 - Tích hợp & Báo cáo](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab05) | Tích hợp & Quản lý phiên bản dự án |
+| 6️⃣ | [Lab 6 - Thiết kế lớp ATM](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab06) | Thiết kế chi tiết lớp & kiến trúc hệ thống ATM |
+| 7️⃣ | [Lab 7 - Module Rút tiền](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab07) | Phát triển module Rút tiền (Withdraw Module) |
+| 8️⃣ | [Lab 8 - Kiểm thử ATM](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab08) | Kiểm thử phần mềm: Unit Test & Integration Test |
+| 9️⃣ | [Lab 9 - Quản lý dự án Jira](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab09) | Quản lý dự án theo mô hình Agile/Scrum với Jira |
+| 🔟 | [Lab 10 - Báo cáo & Demo](https://github.com/chang1504/NMCNPM-Project/tree/main/Lab10) | Báo cáo & Demo tổng hợp ATM Mini Project |
 
 ---
 
@@ -97,7 +97,7 @@ Hiện tại mình đang tập trung vào việc học **Frontend + Backend** đ
 ## 📫 Liên hệ với mình
 📧 **Email:** [phamchang208@gmail.com](mailto:phamchang208@gmail.com)<br>
 🌐 **GitHub:** [github.com/chang1504](https://github.com/chang1504)<br>
-📸 **Instagram:** [https://www.instagram.com/tsubaki_jj/](https://www.instagram.com/tsubaki_jj/)<br>
+📸 **Instagram:** [Thùy Trang](https://www.instagram.com/tsubaki_jj/)<br>
 💙 **Facebook:** [Thùy Trang](https://www.facebook.com/thuy.chanq.2025)<br>
 💬 **Luôn sẵn sàng kết nối & học hỏi!**
 
